@@ -1,2 +1,3 @@
 # bookbot
-a small project to familiarize with python and git workflows
+
+BookBot is my first [Boot.dev](https://www.boot.dev) project!
